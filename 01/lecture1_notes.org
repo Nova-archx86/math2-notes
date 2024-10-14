@@ -1,0 +1,42 @@
+#+title: Lecture One Statistics Notes
+#+author: Glenn D. Moor
+#+date: <2024-10-14 Mon>
+
+* Objectives
+** Define statistics and statistical thinking
+** Explain the process of statistics
+** Distinguish between qualitative and quantitative variables
+** Determine the level of measurementof a variable
+
+* Defining statistics
+
+** Statistics
+The science of collecting, organizing, summarizing, and analyzing information to draw conclusions or answer questions.
+In addition, statistics is about providing a measure of confidence in any conclusions.
+
+** Data
+
+*** The information refferd to in the defenition is data
+*** A fact or proposition used to draw a conclusion
+*** May vary
+*** One goal of statistics is to understand variablility in data
+
+* Explaining the process of statistics
+
+** A *Population* consists of the entire group of individuals to be studied.
+
+** A *Sample* is a subset of the population that is being studied.
+
+** An *Individual* is a person or object that is a member of the population being studied.
+
+** *Descriptive Statistics* consists of organizing and summarizing data and describing data through numerical summaries, tables, and graphs.
+
+** A *Statistic* is a numerical summary based on a *sample*.
+
+** *Inferential Statistics* uses methods that take results from a sample, extends them to the population, and measures the reliability of the result.
+
+** A *Parameter* is a numerical summary of a population.
+
+* Parameter versus Statistic
+
+Example: Suppose the percentage of all students on our campus who have a job is 84.9%.:
